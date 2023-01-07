@@ -43,8 +43,6 @@ class Day3
             Console.WriteLine(dupeSums);
         }
     }
-
-    
 }
 
 Day3.Main(null);
