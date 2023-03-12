@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rIYHRL/qlQUOLo1LzA2RWdDlgaMNyyAM2EVAsx6thUZb/k4r5je4A/m/Z2GUjigUqBGT0enp//R2GmT8xE+Qsg==",
+  "dgSpecHash": "J9lFQAU7ejCXRS5WyaHtQsiKGgH6e/tNg4xxe4jm+gOaM1m4sku2Viro0bfG/j1sGQ47NG9a0VwW7TJDOH6ipA==",
   "success": true,
-  "projectFilePath": "/Users/juancoquet/personal/advent-of-code/2022/day4/day4.csproj",
+  "projectFilePath": "/Users/juan/Documents/programming/advent-of-code/2022/day4/day4.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

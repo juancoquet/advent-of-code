@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/juancoquet/.nuget/packages/": {}
+    "/Users/juan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juancoquet/personal/advent-of-code/2022/day4/day4.csproj",
+      "projectUniqueName": "/Users/juan/Documents/programming/advent-of-code/2022/day4/day4.csproj",
       "projectName": "day4",
-      "projectPath": "/Users/juancoquet/personal/advent-of-code/2022/day4/day4.csproj",
-      "packagesPath": "/Users/juancoquet/.nuget/packages/",
-      "outputPath": "/Users/juancoquet/personal/advent-of-code/2022/day4/obj/",
+      "projectPath": "/Users/juan/Documents/programming/advent-of-code/2022/day4/day4.csproj",
+      "packagesPath": "/Users/juan/.nuget/packages/",
+      "outputPath": "/Users/juan/Documents/programming/advent-of-code/2022/day4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/juancoquet/.nuget/NuGet/NuGet.Config"
+        "/Users/juan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
