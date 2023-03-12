@@ -17,8 +17,9 @@
         return overlaps.Count();
     }
 
-    private static IEnumerable<(int, int, int, int)> PrepareData(IEnumerable<string> input)
+    private static IEnumerable<(int, int, int, int)> PrepareData()
     {
+        var input = System.IO.File.ReadAllLines("input.txt");
         var tuples = input
             .Select(
                 ranges =>
@@ -31,15 +32,9 @@
         return tuples;
     }
 
-    private static IEnumerable<string> GetInput()
-    {
-        return System.IO.File.ReadAllLines("input.txt");
-    }
-
     public static void Main(string[] args)
     {
-        var input = GetInput();
-        var tuples = PrepareData(input);
+        var tuples = PrepareData();
 
         var fullyContained = FindContainedRanges(tuples); // challenge 1 answer
         Console.WriteLine(fullyContained);
